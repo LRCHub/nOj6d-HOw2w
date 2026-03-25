@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ヒップス・ドント・ライ",
+  "base_artist": "Shakira",
+  "createdAt": "2026-03-25T05:39:54.560120Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hips Don't Lie",
+      "artist": "Shakira",
+      "has_synced": false,
+      "path": "select/pl_01_Hips_Don't_Lie_Shakira.txt"
+    }
+  ]
+}
